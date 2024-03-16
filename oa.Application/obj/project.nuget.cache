@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "EAGi94l4/POI9a5IR91EdqPaLhyV0CMylAC+KUvqXPsWl+NXUbhYStpWH15XbOSkQ76PnbAU/SrhLhwhuKl1hA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\onion\\src\\MyApp.Application\\oa.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\HP\\Desktop\\onion\\src\\oa.Domain\\oa.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\HP\\Desktop\\onion\\src\\oa.Domain\\oa.Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

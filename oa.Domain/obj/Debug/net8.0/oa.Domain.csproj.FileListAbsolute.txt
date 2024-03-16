@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\bin\Debug\net8.0\oa.Domain.deps.json
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\bin\Debug\net8.0\oa.Domain.dll
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\bin\Debug\net8.0\oa.Domain.pdb
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\oa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\oa.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\oa.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\oa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\oa.Domain.sourcelink.json
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\oa.Domain.dll
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\refint\oa.Domain.dll
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\oa.Domain.pdb
+C:\Users\HP\Desktop\onion-arch\src\MyApp.Domain\obj\Debug\net8.0\ref\oa.Domain.dll
