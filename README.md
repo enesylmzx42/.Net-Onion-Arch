@@ -2,7 +2,7 @@
 This repository exemplifies a structured application based on a layered architecture, adhering to Domain-Driven Design (DDD) principles.
 <br>
 <br>
-<br><br>
+<br>
 # Layers
 ### Domain Layer
 The Domain Layer encapsulates entities, enums, specifications, and defines repository and unit of work contracts. It remains independent of other layers.
@@ -15,7 +15,7 @@ The Infrastructure Layer encompasses database-related logic (Repositories and Db
 
 ### Presentation Layer
 The Presentation Layer comprises Web API or UI components.
-<br><br><br><br>
+<br><br><br>
 
 
 # Used Technologies
